@@ -1,0 +1,14 @@
+{
+    "210.69.1.102":{
+        "asn":{
+            "asn":"AS4782",
+            "route":"210.69.0.0/16",
+            "domain":"twnic.net.tw"
+        },
+        "online":true,
+        "domains":["gsn.nat.gov.tw"],
+        "openports":[80,443],
+        "traceroutes":["202.112.36.30","101.4.118.26","101.4.114.182"],
+        "location":[25.0478,121.5319]
+    }
+}
